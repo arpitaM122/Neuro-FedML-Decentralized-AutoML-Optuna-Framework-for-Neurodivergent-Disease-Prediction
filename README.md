@@ -1,4 +1,4 @@
-# Neuro-FedML-Decentralized-AutoML-Optuna-Framework-for-Neurodivergent-Disease-Prediction
+# Neuro-FedML: Decentralized-AutoML Optuna Framework for Neurodivergent Disease Prediction
 Neuro-FedML is an advanced Federated Learning (FL) framework designed for the privacy-preserving detection of neurodegenerative diseases. By integrating AutoML for automated model selection and Optuna for Bayesian hyperparameter optimization, the framework achieves high diagnostic accuracy while maintaining strict data decentralization.
 
 # Core Features:
